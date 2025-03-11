@@ -1,0 +1,12 @@
+C:\Users\ari12407\source\repos\First add in\bin\Debug\net8.0-windows\First add in.deps.json
+C:\Users\ari12407\source\repos\First add in\bin\Debug\net8.0-windows\First add in.dll
+C:\Users\ari12407\source\repos\First add in\bin\Debug\net8.0-windows\First add in.pdb
+C:\Users\ari12407\source\repos\First add in\obj\Debug\net8.0-windows\First add in.csproj.AssemblyReference.cache
+C:\Users\ari12407\source\repos\First add in\obj\Debug\net8.0-windows\First add in.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ari12407\source\repos\First add in\obj\Debug\net8.0-windows\First add in.AssemblyInfoInputs.cache
+C:\Users\ari12407\source\repos\First add in\obj\Debug\net8.0-windows\First add in.AssemblyInfo.cs
+C:\Users\ari12407\source\repos\First add in\obj\Debug\net8.0-windows\First add in.csproj.CoreCompileInputs.cache
+C:\Users\ari12407\source\repos\First add in\obj\Debug\net8.0-windows\First add in.dll
+C:\Users\ari12407\source\repos\First add in\obj\Debug\net8.0-windows\refint\First add in.dll
+C:\Users\ari12407\source\repos\First add in\obj\Debug\net8.0-windows\First add in.pdb
+C:\Users\ari12407\source\repos\First add in\obj\Debug\net8.0-windows\ref\First add in.dll
